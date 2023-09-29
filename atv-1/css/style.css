@@ -53,8 +53,9 @@ section.sobre{
     position: absolute;
     bottom:-450px;
     right:-500px;
-    width: 1000px;
-    height: 1000px;px;
-    border-radius: 50%;
+    width:1000px;
+    height:1000px;
     background-color: purple;
+   border-radius: 50%;
+    
 }
