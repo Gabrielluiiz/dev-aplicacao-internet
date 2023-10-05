@@ -55,13 +55,20 @@ section.sobre{
     right:-500px;
     width:1000px;
     height:1000px;
-    background-color: purple;
+    background-color: #731F3E;
    border-radius: 50%;
    display=block
     
 }
 .texto-sobre{
-margin-top: 30px;
+    margin-top: 30px;
 }
 .texto-sobre h1{
-font-size: 40px;
+    font-size: 40px;
+}
+
+.extras img {
+    width: 50%;
+    transform: rotate(-20deg);
+
+}
