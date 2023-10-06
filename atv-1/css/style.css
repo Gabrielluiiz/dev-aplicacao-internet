@@ -42,7 +42,12 @@ header{
     color: black;
     text-decoration: none;
     font-weight: bold;
-    margin-right: 15px;
+    margin-right: 40px;
+    cursor: pointer;
+    transition: all .5s ease;
+
+
+
 }
 
 section.sobre{
@@ -74,6 +79,17 @@ section.sobre{
      font-weight: bold;
  }
 
+ .texto-sobre button {
+    border: 0;
+    background-color: #731F3E;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+ }
+
  .extras img{
     transform: rotate(-10deg);
  }
+
