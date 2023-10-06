@@ -12,6 +12,7 @@
     max-width: 1280px;
     margin:0 auto;
     padding:0 2%;
+    
 }
  
 html,body{
@@ -56,19 +57,23 @@ section.sobre{
     width:1000px;
     height:1000px;
     background-color: #731F3E;
-   border-radius: 50%;
-   display=block
+    border-radius: 50%;
+  
     
 }
 .texto-sobre{
-    margin-top: 30px;
+    margin-top: 100px;
 }
 .texto-sobre h1{
     font-size: 40px;
 }
+ .texto-sobre p {
+    margin: 20px 0;
+    color: black;
+     font-size: 18px;
+     font-weight: bold;
+ }
 
-.extras img {
-    width: 50%;
-    transform: rotate(-20deg);
-
-}
+ .extras img{
+    transform: rotate(-10deg);
+ }
